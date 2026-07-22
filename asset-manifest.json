@@ -1,0 +1,411 @@
+{
+  "name": "Football Legends 2026",
+  "slug": "football-legends-2026",
+  "entryUrl": "https://html5.gamedistribution.com/rvvASMiM/13eabea86f7c4cd993a156258420e9ec/index.html",
+  "capturedAt": "2026-07-22T10:19:03.418Z",
+  "navigationError": null,
+  "assets": [
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/13eabea86f7c4cd993a156258420e9ec/index.html",
+      "file": "index.html",
+      "bytes": 3409,
+      "status": 200,
+      "type": "document",
+      "contentType": "text/html"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/13eabea86f7c4cd993a156258420e9ec/assets/css/app.css",
+      "file": "assets/css/app.css",
+      "bytes": 1946,
+      "status": 200,
+      "type": "stylesheet",
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/13eabea86f7c4cd993a156258420e9ec/football_legends.min.js?ba76f937e4a0599e0586",
+      "file": "football_legends.min.js",
+      "bytes": 1071486,
+      "status": 200,
+      "type": "script",
+      "contentType": "text/javascript"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/13eabea86f7c4cd993a156258420e9ec/assets/lib/nape.min.js",
+      "file": "assets/lib/nape.min.js",
+      "bytes": 1775999,
+      "status": 200,
+      "type": "script",
+      "contentType": "text/javascript"
+    },
+    {
+      "url": "https://html5.api.gamedistribution.com/main.min.js",
+      "file": "_external/html5.api.gamedistribution.com/main.min.js",
+      "bytes": 648851,
+      "status": 200,
+      "type": "script",
+      "contentType": "application/javascript"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/13eabea86f7c4cd993a156258420e9ec/assets/lib/phaser-super-storage.min.js",
+      "file": "assets/lib/phaser-super-storage.min.js",
+      "bytes": 10717,
+      "status": 200,
+      "type": "xhr",
+      "contentType": "text/javascript"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/13eabea86f7c4cd993a156258420e9ec/assets/lib/phaser-cachebuster.min.js",
+      "file": "assets/lib/phaser-cachebuster.min.js",
+      "bytes": 969,
+      "status": 200,
+      "type": "xhr",
+      "contentType": "text/javascript"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/13eabea86f7c4cd993a156258420e9ec/assets/lib/phaser-nineslice.min.js",
+      "file": "assets/lib/phaser-nineslice.min.js",
+      "bytes": 3304,
+      "status": 200,
+      "type": "xhr",
+      "contentType": "text/javascript"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/13eabea86f7c4cd993a156258420e9ec/assets/lib/dragonBones.min.js",
+      "file": "assets/lib/dragonBones.min.js",
+      "bytes": 189336,
+      "status": 200,
+      "type": "xhr",
+      "contentType": "text/javascript"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/13eabea86f7c4cd993a156258420e9ec/assets/css/Calibri-Bold.css",
+      "file": "assets/css/Calibri-Bold.css",
+      "bytes": 382,
+      "status": 200,
+      "type": "stylesheet",
+      "contentType": "text/css"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/13eabea86f7c4cd993a156258420e9ec/assets/fonts/Calibri-Bold/Calibri-Bold.woff",
+      "file": "assets/fonts/Calibri-Bold/Calibri-Bold.woff",
+      "bytes": 50404,
+      "status": 200,
+      "type": "font",
+      "contentType": "binary/octet-stream"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/13eabea86f7c4cd993a156258420e9ec/assets/images/0bg_0xs.png?v=1774893538631",
+      "file": "assets/images/0bg_0xs.png",
+      "bytes": 25347,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/13eabea86f7c4cd993a156258420e9ec/assets/images/logo_mad.png?v=1774893538631",
+      "file": "assets/images/logo_mad.png",
+      "bytes": 2395,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/13eabea86f7c4cd993a156258420e9ec/assets/atlases/interface.png?v=1774893538631",
+      "file": "assets/atlases/interface.png",
+      "bytes": 200420,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/13eabea86f7c4cd993a156258420e9ec/assets/atlases/interface.json?v=1774893538631",
+      "file": "assets/atlases/interface.json",
+      "bytes": 9119,
+      "status": 200,
+      "type": "xhr",
+      "contentType": "application/json"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/13eabea86f7c4cd993a156258420e9ec/assets/data/sk.json?v=undefined",
+      "file": "assets/data/sk.json",
+      "bytes": 100928,
+      "status": 200,
+      "type": "xhr",
+      "contentType": "application/json"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/13eabea86f7c4cd993a156258420e9ec/assets/data/texture.json?v=undefined",
+      "file": "assets/data/texture.json",
+      "bytes": 9147,
+      "status": 200,
+      "type": "xhr",
+      "contentType": "application/json"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/13eabea86f7c4cd993a156258420e9ec/assets/atlases/gameplay.png?v=undefined",
+      "file": "assets/atlases/gameplay.png",
+      "bytes": 774368,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/13eabea86f7c4cd993a156258420e9ec/assets/images/texture.png?v=undefined",
+      "file": "assets/images/texture.png",
+      "bytes": 1490144,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/png"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/13eabea86f7c4cd993a156258420e9ec/assets/atlases/gameplay.json?v=undefined",
+      "file": "assets/atlases/gameplay.json",
+      "bytes": 21290,
+      "status": 200,
+      "type": "xhr",
+      "contentType": "application/json"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/13eabea86f7c4cd993a156258420e9ec/assets/data/Players.json?v=undefined",
+      "file": "assets/data/Players.json",
+      "bytes": 3057,
+      "status": 200,
+      "type": "xhr",
+      "contentType": "application/json"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/13eabea86f7c4cd993a156258420e9ec/assets/data/Play1.json?v=undefined",
+      "file": "assets/data/Play1.json",
+      "bytes": 3442,
+      "status": 200,
+      "type": "xhr",
+      "contentType": "application/json"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/13eabea86f7c4cd993a156258420e9ec/assets/sound/b_shot.ogg?v=undefined",
+      "file": "assets/sound/b_shot.ogg",
+      "bytes": 15445,
+      "status": 200,
+      "type": "xhr",
+      "contentType": "binary/octet-stream"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/13eabea86f7c4cd993a156258420e9ec/assets/sound/b_bounce.ogg?v=undefined",
+      "file": "assets/sound/b_bounce.ogg",
+      "bytes": 11293,
+      "status": 200,
+      "type": "xhr",
+      "contentType": "binary/octet-stream"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/13eabea86f7c4cd993a156258420e9ec/assets/sound/button.ogg?v=undefined",
+      "file": "assets/sound/button.ogg",
+      "bytes": 11964,
+      "status": 200,
+      "type": "xhr",
+      "contentType": "binary/octet-stream"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/13eabea86f7c4cd993a156258420e9ec/assets/sound/beep5sec.ogg?v=undefined",
+      "file": "assets/sound/beep5sec.ogg",
+      "bytes": 11812,
+      "status": 200,
+      "type": "xhr",
+      "contentType": "binary/octet-stream"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/13eabea86f7c4cd993a156258420e9ec/assets/sound/beepOvertime.ogg?v=undefined",
+      "file": "assets/sound/beepOvertime.ogg",
+      "bytes": 26831,
+      "status": 200,
+      "type": "xhr",
+      "contentType": "binary/octet-stream"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/13eabea86f7c4cd993a156258420e9ec/assets/sound/FinalWhistle.ogg?v=undefined",
+      "file": "assets/sound/FinalWhistle.ogg",
+      "bytes": 22345,
+      "status": 200,
+      "type": "xhr",
+      "contentType": "binary/octet-stream"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/13eabea86f7c4cd993a156258420e9ec/assets/sound/whistle.ogg?v=undefined",
+      "file": "assets/sound/whistle.ogg",
+      "bytes": 17200,
+      "status": 200,
+      "type": "xhr",
+      "contentType": "binary/octet-stream"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/13eabea86f7c4cd993a156258420e9ec/assets/sound/fireball.ogg?v=undefined",
+      "file": "assets/sound/fireball.ogg",
+      "bytes": 36576,
+      "status": 200,
+      "type": "xhr",
+      "contentType": "binary/octet-stream"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/13eabea86f7c4cd993a156258420e9ec/assets/sound/goal1.ogg?v=undefined",
+      "file": "assets/sound/goal1.ogg",
+      "bytes": 75826,
+      "status": 200,
+      "type": "xhr",
+      "contentType": "binary/octet-stream"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/13eabea86f7c4cd993a156258420e9ec/assets/sound/goal2.ogg?v=undefined",
+      "file": "assets/sound/goal2.ogg",
+      "bytes": 70871,
+      "status": 200,
+      "type": "xhr",
+      "contentType": "binary/octet-stream"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/13eabea86f7c4cd993a156258420e9ec/assets/sound/slide.ogg?v=undefined",
+      "file": "assets/sound/slide.ogg",
+      "bytes": 6707,
+      "status": 200,
+      "type": "xhr",
+      "contentType": "binary/octet-stream"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/13eabea86f7c4cd993a156258420e9ec/assets/sound/stadium.ogg?v=undefined",
+      "file": "assets/sound/stadium.ogg",
+      "bytes": 143068,
+      "status": 200,
+      "type": "xhr",
+      "contentType": "binary/octet-stream"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/13eabea86f7c4cd993a156258420e9ec/assets/sound/teleport.ogg?v=undefined",
+      "file": "assets/sound/teleport.ogg",
+      "bytes": 8823,
+      "status": 200,
+      "type": "xhr",
+      "contentType": "binary/octet-stream"
+    },
+    {
+      "url": "https://html5.gamedistribution.com/rvvASMiM/13eabea86f7c4cd993a156258420e9ec/assets/sound/track.ogg?v=undefined",
+      "file": "assets/sound/track.ogg",
+      "bytes": 1294829,
+      "status": 200,
+      "type": "xhr",
+      "contentType": "binary/octet-stream"
+    },
+    {
+      "url": "https://game.api.gamedistribution.com/game/v4/get/13eabea86f7c4cd993a156258420e9ec/?domain=html5.gamedistribution.com&v=1.43.58&engn=Windows&localTime=17",
+      "file": "_external/game.api.gamedistribution.com/game/v4/get/13eabea86f7c4cd993a156258420e9ec/index.html",
+      "bytes": 5929,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "application/json; charset=utf-8"
+    },
+    {
+      "url": "https://msgrt.gamedistribution.com/collect?tp=com.gdsdk.gdfw.loading&ar=W3siZ21pZCI6IjEzZWFiZWE4NmY3YzRjZDk5M2ExNTYyNTg0MjBlOWVjIiwidGRtbiI6Imh0bWw1LmdhbWVkaXN0cmlidXRpb24uY29tIiwiZG9tbiI6Imh0bWw1LmdhbWVkaXN0cmlidXRpb24uY29tIiwicmZyciI6Imh0dHBzOi8vaHRtbDUuZ2FtZWRpc3RyaWJ1dGlvbi5jb20vcnZ2QVNNaU0vMTNlYWJlYTg2ZjdjNGNkOTkzYTE1NjI1ODQyMGU5ZWMvaW5kZXguaHRtbCIsImx0aHIiOjE3LCJkcHRoIjowLCJ2ZXJzIjoiMS40My41OCIsInRyYWMiOmZhbHNlLCJ3aGxiIjpmYWxzZSwicGxhdCI6IiIsInRwY3QiOjEsImFyZ3MiOnsibWVzc2FnZSI6ImxvYWRpbmcifSwidHRsZSI6IkZvb3RiYWxsIExlZ2VuZHMiLCJzaXplIjoiMTI4MCB4IDcwNCIsImJybm0iOiJDaHJvbWUiLCJicm1qIjoiMTM4Iiwib3NubSI6IldpbmRvd3MiLCJvc3ZyIjoiMTAiLCJieWxkIjp0cnVlLCJpbWd1IjpmYWxzZSwiaWVndSI6ZmFsc2UsIml0Z3UiOnRydWUsImNtcGUiOmZhbHNlLCJob3N0IjoiaHRtbDUuZ2FtZWRpc3RyaWJ1dGlvbi5jb20ifV0%3D&ts=1784715525489",
+      "file": "_external/msgrt.gamedistribution.com/collect",
+      "bytes": 2,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "text/plain; charset=utf-8"
+    },
+    {
+      "url": "https://cdn.gamemonkey.org/gamemonkey-sdk-javascript/5.1.1/script/gamemonkey-sdk.js",
+      "file": "_external/cdn.gamemonkey.org/gamemonkey-sdk-javascript/5.1.1/script/gamemonkey-sdk.js",
+      "bytes": 52854,
+      "status": 200,
+      "type": "script",
+      "contentType": "application/javascript"
+    },
+    {
+      "url": "https://pm.azerioncircle.com/@bygd/locus/0.7.8/dist/app/iife/index.js",
+      "file": "_external/pm.azerioncircle.com/@bygd/locus/0.7.8/dist/app/iife/index.js",
+      "bytes": 38792,
+      "status": 200,
+      "type": "script",
+      "contentType": "text/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://hb.improvedigital.com/pbw/headerlift.min.js?referer=html5.gamedistribution.com",
+      "file": "_external/hb.improvedigital.com/pbw/headerlift.min.js",
+      "bytes": 204786,
+      "status": 200,
+      "type": "script",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://hb.improvedigital.com/pbw/prebid/prebid-idhb-v11.13b.min.js",
+      "file": "_external/hb.improvedigital.com/pbw/prebid/prebid-idhb-v11.13b.min.js",
+      "bytes": 615045,
+      "status": 200,
+      "type": "script",
+      "contentType": "text/javascript"
+    },
+    {
+      "url": "https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.3.1/socket.io.js",
+      "file": "_external/cdnjs.cloudflare.com/ajax/libs/socket.io/4.3.1/socket.io.js",
+      "bytes": 106043,
+      "status": 200,
+      "type": "script",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://tag.atom.gamedistribution.com/v1/dmp?ar=eyJ0cCI6ImdkLmxvY2F0aW9uIiwiY3QiOjAsInZycyI6IjEuNDMuNTgiLCJ1cmwiOiJodHRwcyUzQSUyRiUyRmh0bWw1LmdhbWVkaXN0cmlidXRpb24uY29tJTJGcnZ2QVNNaU0lMkYxM2VhYmVhODZmN2M0Y2Q5OTNhMTU2MjU4NDIwZTllYyUyRmluZGV4Lmh0bWwiLCJyZnIiOiIiLCJ0ZG1uIjoiaHRtbDUuZ2FtZWRpc3RyaWJ1dGlvbi5jb20iLCJkcHRoIjowLCJhcmdzIjp7ImdpZCI6ImZvb3RiYWxsLWxlZ2VuZHMtMjAyNiIsIm1kNSI6IjEzZWFiZWE4NmY3YzRjZDk5M2ExNTYyNTg0MjBlOWVjIiwicGlkIjowLCJwbm0iOiJTcGlsIEdhbWVzIiwiY3RyeSI6IlZOIiwibGNsIjoiZW4iLCJobGUiOjEsImFkcyI6MSwiaHJlZiI6Imh0dHBzOi8vaHRtbDUuZ2FtZWRpc3RyaWJ1dGlvbi5jb20vcnZ2QVNNaU0vMTNlYWJlYTg2ZjdjNGNkOTkzYTE1NjI1ODQyMGU5ZWMvaW5kZXguaHRtbCIsImRlcHRoIjp7InZhbHVlIjowfSwidG9wIjp7ImRvbWFpbiI6eyJmcm9tIjoic2VsZi10b3AiLCJ2YWx1ZSI6Imh0bWw1LmdhbWVkaXN0cmlidXRpb24uY29tIn19LCJwYXJ0bmVyIjp7ImRvbWFpbiI6eyJ2YWx1ZSI6Imh0bWw1LmdhbWVkaXN0cmlidXRpb24uY29tIiwiZnJvbSI6ImZhbGxiYWNrIn0sInVybCI6eyJ2YWx1ZSI6Imh0dHBzOi8vaHRtbDUuZ2FtZWRpc3RyaWJ1dGlvbi5jb20vcnZ2QVNNaU0vMTNlYWJlYTg2ZjdjNGNkOTkzYTE1NjI1ODQyMGU5ZWMvaW5kZXguaHRtbCIsImZyb20iOiJzZWxmLXRvcCJ9fX0sInVhIjp7ImJybm0iOiJDaHJvbWUiLCJicnZzIjoiMTM4Iiwib3NubSI6IldpbmRvd3MiLCJvc3ZzIjoiMTAiLCJ3IjoxMjgwLCJoIjo3MDR9fQ%3D%3D",
+      "file": "_external/tag.atom.gamedistribution.com/v1/dmp",
+      "status": 200,
+      "error": "response.body: Protocol error (Network.getResponseBody): No data found for resource with given identifier"
+    },
+    {
+      "url": "https://pub.headerlift.com/opphb?page_url=html5.gamedistribution.com&page_type=gd&page_width=1280&aid=13eabea86f7c4cd993a156258420e9ec",
+      "file": "_external/pub.headerlift.com/opphb",
+      "bytes": 6741,
+      "status": 200,
+      "type": "fetch",
+      "contentType": "application/json; charset=utf-8"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/prebid.js@11.13.0/dist/chunks/debugging-standalone.js",
+      "file": "_external/cdn.jsdelivr.net/npm/prebid.js@11.13.0/dist/chunks/debugging-standalone.js",
+      "bytes": 13413,
+      "status": 200,
+      "type": "script",
+      "contentType": "application/javascript; charset=utf-8"
+    },
+    {
+      "url": "https://www.google.com.vn/ads/ga-audiences?v=1&t=sr&slf_rd=1&_r=4&tid=G-PLRTBHGSEL&cid=64369210.1784715526&gtm=45je67k1v9165161826za200zd9165161826&rcb=1&aip=1&dma=0&gcd=13l3l3l3l1l1&npa=0&frm=0&tag_exp=115938465~115938468~118395333~118897920~118897930~119773331~119896803&z=1943200405",
+      "file": "_external/www.google.com.vn/ads/ga-audiences",
+      "bytes": 42,
+      "status": 200,
+      "type": "image",
+      "contentType": "image/gif"
+    },
+    {
+      "url": "https://s0.2mdn.net/instream/video/client.js",
+      "file": "_external/s0.2mdn.net/instream/video/client.js",
+      "bytes": 44701,
+      "status": 200,
+      "type": "script",
+      "contentType": "text/javascript"
+    }
+  ],
+  "verification": {
+    "checkedAt": "2026-07-22T10:20:42.675Z",
+    "navigationError": null,
+    "consoleErrors": [],
+    "pageErrors": [],
+    "failedAssets": [],
+    "remoteRequests": [
+      "https://msgrt.gamedistribution.com/collect?tp=com.gdsdk.gdfw.loading&ar=W3siZ21pZCI6IjEzZWFiZWE4NmY3YzRjZDk5M2ExNTYyNTg0MjBlOWVjIiwidGRtbiI6IjEyNy4wLjAuMTo2MzQ0MiIsImRvbW4iOiIxMjcuMC4wLjE6NjM0NDIiLCJyZnJyIjoiaHR0cDovLzEyNy4wLjAuMTo2MzQ0Mi9mb290YmFsbC1sZWdlbmRzLTIwMjYvaW5kZXguaHRtbCIsImx0aHIiOjE3LCJkcHRoIjowLCJ2ZXJzIjoiMS40My41OCIsInRyYWMiOmZhbHNlLCJ3aGxiIjpmYWxzZSwicGxhdCI6IiIsInRwY3QiOjEsImFyZ3MiOnsibWVzc2FnZSI6ImxvYWRpbmcifSwidHRsZSI6IkZvb3RiYWxsIExlZ2VuZHMiLCJzaXplIjoiMTI4MCB4IDcwNCIsImJybm0iOiJFZGdlIiwiYnJtaiI6IjE1MCIsIm9zbm0iOiJXaW5kb3dzIiwib3N2ciI6IjEwIiwiYnlsZCI6ZmFsc2UsImltZ3UiOmZhbHNlLCJpZWd1IjpmYWxzZSwiaXRndSI6ZmFsc2UsImNtcGUiOmZhbHNlLCJob3N0IjoiMTI3LjAuMC4xIn1d&ts=1784715629576",
+      "https://game.api.gamedistribution.com/game/v4/get/13eabea86f7c4cd993a156258420e9ec/?domain=127.0.0.1:63442&v=1.43.58&engn=Windows&localTime=17",
+      "https://msgrt.gamedistribution.com/collect?tp=com.gdsdk.gdfw.loading&ar=W3siZ21pZCI6IjEzZWFiZWE4NmY3YzRjZDk5M2ExNTYyNTg0MjBlOWVjIiwidGRtbiI6IjEyNy4wLjAuMTo2MzQ0MiIsImRvbW4iOiIxMjcuMC4wLjE6NjM0NDIiLCJyZnJyIjoiaHR0cDovLzEyNy4wLjAuMTo2MzQ0Mi9mb290YmFsbC1sZWdlbmRzLTIwMjYvaW5kZXguaHRtbCIsImx0aHIiOjE3LCJkcHRoIjowLCJ2ZXJzIjoiMS40My41OCIsInRyYWMiOmZhbHNlLCJ3aGxiIjpmYWxzZSwicGxhdCI6IiIsInRwY3QiOjIsImFyZ3MiOnsibWVzc2FnZSI6ImxvYWRpbmcifSwidHRsZSI6IkZvb3RiYWxsIExlZ2VuZHMiLCJzaXplIjoiMTI4MCB4IDcwNCIsImJybm0iOiJFZGdlIiwiYnJtaiI6IjE1MCIsIm9zbm0iOiJXaW5kb3dzIiwib3N2ciI6IjEwIiwiYnlsZCI6ZmFsc2UsImltZ3UiOmZhbHNlLCJpZWd1IjpmYWxzZSwiaXRndSI6ZmFsc2UsImNtcGUiOmZhbHNlLCJob3N0IjoiMTI3LjAuMC4xIn1d&ts=1784715629579",
+      "https://msgrt.gamedistribution.com/collect?tp=com.gdsdk.gdfw.success&ar=W3siZ21pZCI6IjEzZWFiZWE4NmY3YzRjZDk5M2ExNTYyNTg0MjBlOWVjIiwidGRtbiI6IjEyNy4wLjAuMTo2MzQ0MiIsImRvbW4iOiIxMjcuMC4wLjE6NjM0NDIiLCJyZnJyIjoiaHR0cDovLzEyNy4wLjAuMTo2MzQ0Mi9mb290YmFsbC1sZWdlbmRzLTIwMjYvaW5kZXguaHRtbCIsImx0aHIiOjE3LCJkcHRoIjowLCJ2ZXJzIjoiMS40My41OCIsInRyYWMiOmZhbHNlLCJ3aGxiIjpmYWxzZSwicGxhdCI6IiIsInRwY3QiOjEsImFyZ3MiOnsibWVzc2FnZSI6InN1Y2Nlc3MifSwidHRsZSI6IkZvb3RiYWxsIExlZ2VuZHMiLCJzaXplIjoiMTI4MCB4IDcwNCIsImJybm0iOiJFZGdlIiwiYnJtaiI6IjE1MCIsIm9zbm0iOiJXaW5kb3dzIiwib3N2ciI6IjEwIiwiYnlsZCI6ZmFsc2UsImltZ3UiOmZhbHNlLCJpZWd1IjpmYWxzZSwiaXRndSI6ZmFsc2UsImNtcGUiOmZhbHNlLCJob3N0IjoiMTI3LjAuMC4xIn1d&ts=1784715639358",
+      "https://pm.azerioncircle.com/p/locus/",
+      "https://www.googletagmanager.com/gtag/js?id=G-PLRTBHGSEL&l=gdSDKDataLayer",
+      "https://cdn.gamemonkey.org/gamemonkey-sdk-javascript/5.1.1/script/gamemonkey-sdk.js",
+      "https://tag.atom.gamedistribution.com/v1/dmp?ar=eyJ0cCI6ImdkLmxvY2F0aW9uIiwiY3QiOjAsInZycyI6IjEuNDMuNTgiLCJ1cmwiOiJodHRwJTNBJTJGJTJGMTI3LjAuMC4xJTNBNjM0NDIlMkZmb290YmFsbC1sZWdlbmRzLTIwMjYlMkZpbmRleC5odG1sIiwicmZyIjoiIiwidGRtbiI6IjEyNy4wLjAuMTo2MzQ0MiIsImRwdGgiOjAsImFyZ3MiOnsiZ2lkIjoiZm9vdGJhbGwtbGVnZW5kcy0yMDI2IiwibWQ1IjoiMTNlYWJlYTg2ZjdjNGNkOTkzYTE1NjI1ODQyMGU5ZWMiLCJwaWQiOjAsImN0cnkiOiJWTiIsImxjbCI6ImVuIiwiaGxlIjoxLCJhZHMiOjEsImhyZWYiOiJodHRwOi8vMTI3LjAuMC4xOjYzNDQyL2Zvb3RiYWxsLWxlZ2VuZHMtMjAyNi9pbmRleC5odG1sIiwiZGVwdGgiOnsidmFsdWUiOjB9LCJ0b3AiOnsiZG9tYWluIjp7ImZyb20iOiJzZWxmLXRvcCIsInZhbHVlIjoiMTI3LjAuMC4xOjYzNDQyIn19LCJwYXJ0bmVyIjp7ImRvbWFpbiI6eyJ2YWx1ZSI6IjEyNy4wLjAuMTo2MzQ0MiIsImZyb20iOiJmYWxsYmFjayJ9LCJ1cmwiOnsidmFsdWUiOiJodHRwOi8vMTI3LjAuMC4xOjYzNDQyL2Zvb3RiYWxsLWxlZ2VuZHMtMjAyNi9pbmRleC5odG1sIiwiZnJvbSI6InNlbGYtdG9wIn19fSwidWEiOnsiYnJubSI6IkVkZ2UiLCJicnZzIjoiMTUwLjAuMC4wIiwib3NubSI6IldpbmRvd3MiLCJvc3ZzIjoiMTAiLCJ3IjoxMjgwLCJoIjo3MDR9fQ%3D%3D",
+      "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js",
+      "https://msgrt.gamedistribution.com/collect?tp=com.gdsdk.gdfw.success&ar=W3siZ21pZCI6IjEzZWFiZWE4NmY3YzRjZDk5M2ExNTYyNTg0MjBlOWVjIiwidGRtbiI6IjEyNy4wLjAuMTo2MzQ0MiIsImRvbW4iOiIxMjcuMC4wLjE6NjM0NDIiLCJyZnJyIjoiaHR0cDovLzEyNy4wLjAuMTo2MzQ0Mi9mb290YmFsbC1sZWdlbmRzLTIwMjYvaW5kZXguaHRtbCIsImx0aHIiOjE3LCJkcHRoIjowLCJ2ZXJzIjoiMS40My41OCIsInRyYWMiOmZhbHNlLCJ3aGxiIjpmYWxzZSwicGxhdCI6IiIsInRwY3QiOjIsImFyZ3MiOnsibWVzc2FnZSI6InN1Y2Nlc3MifSwidHRsZSI6IkZvb3RiYWxsIExlZ2VuZHMiLCJzaXplIjoiMTI4MCB4IDcwNCIsImJybm0iOiJFZGdlIiwiYnJtaiI6IjE1MCIsIm9zbm0iOiJXaW5kb3dzIiwib3N2ciI6IjEwIiwiYnlsZCI6ZmFsc2UsImltZ3UiOmZhbHNlLCJpZWd1IjpmYWxzZSwiaXRndSI6ZmFsc2UsImNtcGUiOmZhbHNlLCJob3N0IjoiMTI3LjAuMC4xIn1d&ts=1784715639561"
+    ],
+    "status": "done"
+  }
+}
