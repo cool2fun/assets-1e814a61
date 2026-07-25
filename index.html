@@ -81,29 +81,6 @@ window.GameMonetize=window.GameMonetize||{};
         };
         // The standalone embed does not load the GameDistribution SDK.
     </script>
-<script data-phaser-canvas-cors>(function () {
-    var nativeGetContext = HTMLCanvasElement.prototype.getContext;
-    HTMLCanvasElement.prototype.getContext = function (type) {
-        if (type === 'webgl' || type === 'webgl2' || type === 'experimental-webgl') return null;
-        return nativeGetContext.apply(this, arguments);
-    };
-    var phaser;
-    Object.defineProperty(window, 'Phaser', {
-        configurable: true,
-        get: function () { return phaser; },
-        set: function (value) {
-            phaser = value;
-            var loader = value && value.Loader && value.Loader.prototype;
-            if (!loader || loader.__embedCorsPatch) return;
-            var loadImageTag = loader.loadImageTag;
-            loader.loadImageTag = function (file) {
-                this.crossOrigin = 'anonymous';
-                return loadImageTag.call(this, file);
-            };
-            loader.__embedCorsPatch = true;
-        }
-    });
-})();</script>
 <script type="text/javascript" src="football_legends.min.js?ba76f937e4a0599e0586"></script></body>
 
 </html>
